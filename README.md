@@ -19,6 +19,10 @@ Bir Matristeki En Zayıf K adet Satırı Bulma:
  
  -en son zayıf olan satırların kaçıncı satır olduklarını yazar.
 
+--belki basit bir savunma oyununda kullanılabilir ve yeterli olmayan asker koyduğumuzda bizi uyarabilir.
+
+--yada birler geliştirilmesi ile 1 ler yerine şifre oluşturmak için karakterler girildiğinde ve bu karakterler boş yerlerden daha az ise zayıf bir şifre olacağından bunları tespit edebilir.
+
 *
 
 *
@@ -37,3 +41,5 @@ Diziyi toplamı eşit alt kümelere bölme:
  -çift ise girilen sayıları baştan itibaren toplayarak , en baştaki toplamın yarısı olup olamayacagını kontol eder
  
  //her zaman doğru sonucu vermiyor ama başka yöntem bulamadım. düşünebildiklerim içinde çalışan buydu.
+ 
+ --farklı ağırlıktaki şeyleri aynı ağırlıkta olacak şekilde paketlemek/ayırmak istediğimizde kullanabiliriz. fabrikalarda işe yarayabilir.
