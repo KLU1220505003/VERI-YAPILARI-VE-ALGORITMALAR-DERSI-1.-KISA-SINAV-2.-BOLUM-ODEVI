@@ -2,14 +2,22 @@
 
 
 Bir Matristeki En Zayıf K adet Satırı Bulma:
-  kullanıcıdan en ve boy sayılarını alarak istenilen büyüklükte bir matris oluşturur.
-  her elemanı ilk önce hepsi 1 olacak şekilde atama yapar
-  sonra rastgele (en sayısını geçmeyecek şekilde) sayılar üreterek 0'ların nerden itibaren atanacağını belirler.
-  her belirlemeden sonra satır sonuna kdar sıfırları koyar ve aynı işlem için sonraki satıra geçer.
-  görebilmemiz için matrisi ekrana bastırır.
-  her satırdaki 0 ların sayısını hesaplayark bir dizide tutar. 
-  satırdaki eleman sayısı ile o satırdaki 0 ların sayısını çıkararak 1 lerin sayısını bulur ve bunlar birbirlerine eşit ise yada 1 ler daha az ise o satırı zayıf olarak adlandırı.
-  en son zayıf olan satırların kaçıncı satır olduklarını yazar.
+ 
+ kullanıcıdan en ve boy sayılarını alarak istenilen büyüklükte bir matris oluşturur.
+ 
+ her elemanı ilk önce hepsi 1 olacak şekilde atama yapar
+ 
+ sonra rastgele (en sayısını geçmeyecek şekilde) sayılar üreterek 0'ların nerden itibaren atanacağını belirler.
+ 
+ her belirlemeden sonra satır sonuna kdar sıfırları koyar ve aynı işlem için sonraki satıra geçer.
+ 
+ görebilmemiz için matrisi ekrana bastırır.
+ 
+ her satırdaki 0 ların sayısını hesaplayark bir dizide tutar. 
+ 
+ satırdaki eleman sayısı ile o satırdaki 0 ların sayısını çıkararak 1 lerin sayısını bulur ve bunlar birbirlerine eşit ise yada 1 ler daha az ise o satırı zayıf olarak adlandırı.
+ 
+ en son zayıf olan satırların kaçıncı satır olduklarını yazar.
   
   
   
