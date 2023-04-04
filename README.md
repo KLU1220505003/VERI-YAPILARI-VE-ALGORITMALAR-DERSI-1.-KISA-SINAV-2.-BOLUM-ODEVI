@@ -18,13 +18,12 @@ Bir Matristeki En Zayıf K adet Satırı Bulma:
  -satırdaki eleman sayısı ile o satırdaki 0 ların sayısını çıkararak 1 lerin sayısını bulur ve bunlar birbirlerine eşit ise yada 1 ler daha az ise o satırı zayıf olarak adlandırı.
  
  -en son zayıf olan satırların kaçıncı satır olduklarını yazar.
-  *
-  *
-  *
-  *
-  *
-  *
-  *
+
+*
+
+*
+
+
 Diziyi toplamı eşit alt kümelere bölme:
  
  -en fazla 20 eleman eleman tutabilen elemana ne kadar eleman konulmasını istediğini sorar.
