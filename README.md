@@ -3,7 +3,7 @@
 
 Bir Matristeki En Zayıf K adet Satırı Bulma:
  
- kullanıcıdan en ve boy sayılarını alarak istenilen büyüklükte bir matris oluşturur.
+  kullanıcıdan en ve boy sayılarını alarak istenilen büyüklükte bir matris oluşturur.
  
  her elemanı ilk önce hepsi 1 olacak şekilde atama yapar
  
